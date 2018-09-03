@@ -1,4 +1,4 @@
-# state-chambers-client
+# State Legislatures App
 
 ## Project setup
 ```
