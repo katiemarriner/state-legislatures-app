@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'StateFaceRegular';
+  src: url('font/webfont/stateface-regular-webfont.eot');
+  src: url('font/webfont/stateface-regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('font/webfont/stateface-regular-webfont.woff') format('woff'),
+       url('font/webfont/stateface-regular-webfont.ttf') format('truetype'),
+       url('font/webfont/stateface-regular-webfont.svg#StateFaceRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.stateface {
+  font-family: 'StateFaceRegular';
+}
+
+.stateface--large {
+  font-size: 28px;
+}
+
+.stateface--xlarge {
+  font-size: 36px;
+}
